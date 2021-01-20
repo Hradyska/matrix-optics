@@ -1,0 +1,16 @@
+/media/lvh/Work/dev/gitHub/matrix-optics-2/bin/Debug/net5.0/matrix-optics-2
+/media/lvh/Work/dev/gitHub/matrix-optics-2/bin/Debug/net5.0/matrix-optics-2.deps.json
+/media/lvh/Work/dev/gitHub/matrix-optics-2/bin/Debug/net5.0/matrix-optics-2.runtimeconfig.json
+/media/lvh/Work/dev/gitHub/matrix-optics-2/bin/Debug/net5.0/matrix-optics-2.runtimeconfig.dev.json
+/media/lvh/Work/dev/gitHub/matrix-optics-2/bin/Debug/net5.0/matrix-optics-2.dll
+/media/lvh/Work/dev/gitHub/matrix-optics-2/bin/Debug/net5.0/ref/matrix-optics-2.dll
+/media/lvh/Work/dev/gitHub/matrix-optics-2/bin/Debug/net5.0/matrix-optics-2.pdb
+/media/lvh/Work/dev/gitHub/matrix-optics-2/obj/Debug/net5.0/matrix-optics-2.csprojAssemblyReference.cache
+/media/lvh/Work/dev/gitHub/matrix-optics-2/obj/Debug/net5.0/matrix-optics-2.GeneratedMSBuildEditorConfig.editorconfig
+/media/lvh/Work/dev/gitHub/matrix-optics-2/obj/Debug/net5.0/matrix-optics-2.AssemblyInfoInputs.cache
+/media/lvh/Work/dev/gitHub/matrix-optics-2/obj/Debug/net5.0/matrix-optics-2.AssemblyInfo.cs
+/media/lvh/Work/dev/gitHub/matrix-optics-2/obj/Debug/net5.0/matrix-optics-2.csproj.CoreCompileInputs.cache
+/media/lvh/Work/dev/gitHub/matrix-optics-2/obj/Debug/net5.0/matrix-optics-2.dll
+/media/lvh/Work/dev/gitHub/matrix-optics-2/obj/Debug/net5.0/ref/matrix-optics-2.dll
+/media/lvh/Work/dev/gitHub/matrix-optics-2/obj/Debug/net5.0/matrix-optics-2.pdb
+/media/lvh/Work/dev/gitHub/matrix-optics-2/obj/Debug/net5.0/matrix-optics-2.genruntimeconfig.cache
